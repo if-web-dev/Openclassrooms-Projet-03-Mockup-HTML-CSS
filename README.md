@@ -4,7 +4,7 @@
 
 ## Goal
 
-The aim is to develop a model in html css to present to the client. The project contains the specifications.
+* The aim is to develop a model in html css to present to the client. The project contains the specifications.
 
 ## Made with
 
