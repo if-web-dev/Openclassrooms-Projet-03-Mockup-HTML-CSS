@@ -1,6 +1,6 @@
 # Openclassrooms-Projet-03-Mockup-HTML-CSS
 
-We present project 3 of the PHP/Symfony application developer course. Analyze your client's needs for their film festival.
+* We present project 3 of the PHP/Symfony application developer course. Analyze your client's needs for their film festival.
 
 ## Goal
 
